@@ -1,0 +1,19 @@
+{
+  "name": "fish-online-app",
+  "version": "1.0.0",
+  "description": "This is online Fish Ordering App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemavasupalli/React.git"
+  },
+  "author": "Hema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemavasupalli/React/issues"
+  },
+  "homepage": "https://github.com/hemavasupalli/React#readme"
+}
